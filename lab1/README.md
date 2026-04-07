@@ -3,7 +3,7 @@
 ## Abstract
 This experiment aimed to apply basic digital logic design by implementing a 7-segment display controlled by a push button using an Arduino. The system was expected to display numbers from 0 to 5 sequentially. However, while the display responded to input, the LEDs lit up in random patterns instead of forming the correct numbers, possibly due to faulty components.
 
-## setups image
+
 ## Circuit Setup
 ![setups](images_lab1.png)
 
