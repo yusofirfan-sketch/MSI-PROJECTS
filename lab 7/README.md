@@ -12,13 +12,13 @@
 - Python & Arduino IDE installed on PC
 
 ## Images
-- Setup Part 1: ![Setup1](lab7_1)
-- Setup Part 2: ![Setup2](lab7_2)
+- Setup Part 1: ![Setup1](lab7_1.png)
+- Setup Part 2: ![Setup2](lab7_2.png)
 
 ## Output Results
-- ![Result 1](results7_1)
-- ![Result 2](results7_2)
-- ![Result 3](results7_3)
+- ![Result 1](results7_1.png)
+- ![Result 2](results7_2.png)
+- ![Result 3](results7_3.png)
 
 ## Methodology
 **Part 1:**  
