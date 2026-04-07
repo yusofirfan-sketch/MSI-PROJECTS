@@ -34,11 +34,11 @@
 ## Code Files
 
 **Part 1 (Color Sensor TCS230/TCS34725):**  
-- `arduino_lab7_part1.ino` – Arduino code to read RGB values from the sensor  
-- `python_lab7_part1.py` – Python code to read serial data from Arduino and identify colors
+- [arduino_lab7_part1.ino](./arduino_lab7_part1.ino) – Arduino code to read RGB values from the sensor  
+- [python_lab7_part1.py](./python_lab7_part1.py) – Python code to read serial data from Arduino and identify colors
 
 **Part 2 (Pixy1 Camera):**  
-- `arduino_lab7_part2.ino` – Arduino code to interface with Pixy1 camera and display detected colors on the Serial Monitor
+- [arduino_lab7_part2.ino](./arduino_lab7_part2.ino) – Arduino code to interface with Pixy1 camera and display detected colors on the Serial Monitor
 
 
 ## Discussion
