@@ -14,11 +14,11 @@ The LM35 sensor reads ambient temperature, converts it to a voltage, and the Ard
 - Breadboard & jumper wires
 
 ## Images
-- Setup: ![Setup](image_lab6)
+- Setup: ![Setup](image_lab6.png)
 - Results: 
-  - ![Result 1](results1_lab6)
-  - ![Result 2](results2_lab6)
-  - ![Result 3](results3_lab6)
+  - ![Result 1](results1_lab6.png)
+  - ![Result 2](results2_lab6.png)
+  - ![Result 3](results3_lab6.png)
 
 ## Methodology
 1. Connect LM35 to ESP32 analog pin.
