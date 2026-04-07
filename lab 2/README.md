@@ -52,11 +52,11 @@ This experiment uses the PySerial library to connect Arduino (hardware) with Pyt
 
 ### 3A Result (Data Acquisition)
 <p align="center">
-  <img src="results_3A1.png" width="400">
+  <img src="result_3A1.png" width="400">
 </p>
 
 <p align="center">
-  <img src="results_3A2.png" width="400">
+  <img src="result_3A2.png" width="400">
 </p>
 
 - Real-time potentiometer readings successfully displayed  
