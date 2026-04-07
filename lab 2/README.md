@@ -86,7 +86,7 @@ The project successfully implemented two-way serial communication between Arduin
 
 ## Python Code
 See full implementation here:  
-👉 [python_controller.py](python_controller.py)
+ [python_controller.py](python_controller.py)
 
 ## Code
 
