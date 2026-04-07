@@ -52,14 +52,22 @@ This experiment uses the PySerial library to connect Arduino (hardware) with Pyt
 
 ### 3A Result (Data Acquisition)
 <p align="center">
-  <img src="results_3A.png" width="400">
+  <img src="results_3A1.png" width="400">
+</p>
+
+<p align="center">
+  <img src="results_3A2.png" width="400">
 </p>
 
 - Real-time potentiometer readings successfully displayed  
 
 ### 3B Result (Servo Control)
 <p align="center">
-  <img src="result_3B.png" width="400">
+  <img src="result_3B1.png" width="400">
+</p>
+
+<p align="center">
+  <img src="results_3B2.png" width="400">
 </p>
 
 - Servo motor responded accurately to Python input  
